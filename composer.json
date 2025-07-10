@@ -12,17 +12,17 @@
     }
   ],
   "require": {
-    "php": ">=8.3",
-    "nette/di": "^3.0.0",
-    "doctrine/orm": "^3.0",
+    "php": ">=8.4",
+    "nette/di": "^3.2",
+    "doctrine/orm": "^3.5",
     "doctrine/annotations": "^2.0",
-    "gedmo/doctrine-extensions": "^3.19"
+    "gedmo/doctrine-extensions": "^3.2"
   },
   "require-dev": {
     "nettrine/orm": "^0.10",
     "ninjify/qa": "^0.13",
     "ninjify/nunjuck": "^0.4",
-    "phpstan/phpstan": "^2.0",
+    "phpstan/phpstan": "^2.1",
     "phpstan/phpstan-deprecation-rules": "^2.0",
     "phpstan/phpstan-nette": "^2.0",
     "phpstan/phpstan-strict-rules": "^2.0"
