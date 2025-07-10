@@ -1,5 +1,5 @@
 {
-  "name": "nettrine/extensions-atlantic18",
+  "name": "ondrej-silha/doctrine-extensions-atlantic18",
   "description": "Doctrine2 behavioral extensions for Nette Framework",
   "keywords": ["nette", "doctrine", "orm", "database"],
   "type": "library",
